@@ -1,0 +1,116 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1	mis.dev
+127.0.0.1	invoicesys.dev
+127.0.0.1	paypal-integration.dev
+127.0.0.1	drupal-crm.dev
+127.0.0.1	porto.dev
+127.0.0.1	cboxes.dev
+127.0.0.1	bugherd_server.dev
+127.0.0.1	bugtracking.dev
+127.0.0.1	customboxes4u.dev
+127.0.0.1	bxslider.testing
+127.0.0.1	bxslider.dev
+127.0.0.1	trsplugins.io
+127.0.0.1	therightsol.dev
+127.0.0.1	trszion.dev
+127.0.0.1	wp.test
+
+127.0.0.1   localhost
+
+
+#Camtasia Activation - Block 
+127.0.0.1	activation.cloud.techsmith.com
+
+
+
+# Adobe Tool v3.4 Beta: 16/07/2017 11:38:01.
+127.0.0.1 	3dns-1.adobe.com 
+127.0.0.1	3dns-2.adobe.com 
+127.0.0.1	3dns-3.adobe.com 
+127.0.0.1	3dns-4.adobe.com 
+127.0.0.1	3dns.adobe.com 
+127.0.0.1	activate-sea.adobe.com 
+127.0.0.1	activate-sjc0.adobe.com 
+127.0.0.1	activate.adobe.com 
+127.0.0.1	activate.wip.adobe.com 
+127.0.0.1 	activate.wip1.adobe.com 
+127.0.0.1	activate.wip2.adobe.com 
+127.0.0.1	activate.wip3.adobe.com 
+127.0.0.1	activate.wip4.adobe.com 
+127.0.0.1	adobe-dns-1.adobe.com 
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com 
+127.0.0.1	adobe-dns-4.adobe.com 
+127.0.0.1	adobe-dns.adobe.com 
+127.0.0.1 	adobeereg.com 
+127.0.0.1	crl.verisign.net 
+127.0.0.1	ereg.adobe.com 
+127.0.0.1	ereg.wip.adobe.com 
+127.0.0.1	ereg.wip1.adobe.com 
+127.0.0.1	ereg.wip2.adobe.com 
+127.0.0.1	ereg.wip3.adobe.com 
+127.0.0.1	ereg.wip4.adobe.com 
+127.0.0.1	hl2rcv.adobe.com 
+127.0.0.1 	lm.licenses.adobe.com 
+127.0.0.1	lmlicenses.wip4.adobe.com 
+127.0.0.1	na2m-pr.licenses.adobe.com 
+127.0.0.1	ood.opsource.net 
+127.0.0.1	practivate.adobe 
+127.0.0.1	practivate.adobe.com 
+127.0.0.1	practivate.adobe.ipp 
+127.0.0.1	practivate.adobe.newoa 
+127.0.0.1	practivate.adobe.ntp 
+127.0.0.1 	wip.adobe.com 
+127.0.0.1	wip1.adobe.com 
+127.0.0.1	wip2.adobe.com 
+127.0.0.1	wip3.adobe.com 
+127.0.0.1	wip4.adobe.com 
+127.0.0.1	wwis-dubc1-vip60.adobe.com 
+127.0.0.1	www.adobeereg.com 
+127.0.0.1	www.wip.adobe.com 
+127.0.0.1	www.wip1.adobe.com 
+127.0.0.1 	www.wip2.adobe.com
+127.0.0.1	www.wip3.adobe.com
+127.0.0.1	www.wip4.adobe.com 
+192.168.123.10  civi.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  civi.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  d7-46.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  d7-master.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  wp-46.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  wp-master.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  d8-46.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  d8-master.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  b-46.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+192.168.123.10  b-master.dev  # VAGRANT: 7f232140cb5f27343fbdea0d72ca65b6 (default) / bfd8368c-fc11-437f-924e-5169bb02896c
+#----------------------#Adding entry into Hosts File------------------------
+#DATED: Saturday, 06-January-2018 08:01:00
+127.0.0.1 	 mycustomboxes.test
+#------------------------#Ending entry into Hosts File----------------------
+
+
+#----------------------#Adding entry into Hosts File------------------------
+#DATED: Saturday, 06-January-2018 08:01:46
+127.0.0.1 	 mycustom-boxes.test
+#------------------------#Ending entry into Hosts File----------------------
+
